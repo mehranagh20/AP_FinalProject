@@ -1,6 +1,6 @@
 # AP_FinalProject
 ```
-This is final project of andvance programming cource of Isfahan University Of Technology.
+This is final project of andvance programming courcesof Isfahan University Of Technology.
 This is a multiplayer game like MiniClip Soccer Stars Game.
 The whole project is created with Qt Creator and c++.
 ```
@@ -14,7 +14,7 @@ $ qmake && make
 
 ## Usage
 ``` 
-Run the game enter the ip address of network that both clients are connectin to
+Run the game enter the ip address of network that both clients are connected to
 Select your teams, Enjoy :)
 ```
 
