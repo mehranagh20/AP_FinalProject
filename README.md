@@ -1,6 +1,6 @@
-# AP_FinalProject
+# AP Final Project
 ```
-This is final project of andvance programming courcesof Isfahan University Of Technology.
+This is final project of andvance programming course of Isfahan University Of Technology.
 This is a multiplayer game like MiniClip Soccer Stars Game.
 The whole project is created with Qt Creator and c++.
 ```
